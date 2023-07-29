@@ -1,2 +1,2 @@
-# memo-reacts
-Created with CodeSandbox
+# memo-reactjs
+Memoize child component to prevent re-render when parent state changes
